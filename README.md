@@ -19,7 +19,7 @@ sudo iptables-shell.sh start
 
 to stop run
 ```bash
-sudo iptables-shell.sh start
+sudo iptables-shell.sh stop
 ```
 
 and to 
